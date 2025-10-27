@@ -1,5 +1,15 @@
-## Hi there 👋
-
+## Hi there I'm Jessica👋
+<hr>
+<h1>About Me</h1>
+<hr>
+<h2>I'm a beginner in coding and robotics and I'm love encouraging paople to jain coding and robotics.I enjoy learning how to code and hack.</h2>
+<li>💫currently learning:coding and robotics.</li>
+<li>🦕working on:nothing</li>
+<li>fun fact:I'm Nigerian and I like talking</li>
+<h1>My Skills</h1>
+<hr>
+<li>html</li>
+<li>css</li>
 <!--
 **omenaijessica17/omenaijessica17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
