@@ -2,8 +2,8 @@
 ![Snapchat-435487827](https://github.com/user-attachments/assets/cbff8bc5-8885-4ace-a401-ce1c9c2dc639)<hr>
 <h1>About Me</h1>
 <hr>
-<h2>I'm a beginner in coding and robotics and I'm love encouraging paople to jain coding and robotics.I enjoy learning how to code and hack.</h2>
-<li>💫currently learning:coding and robotics.</li>
+<h2>I'm a beginner in coding  and I love encouraging people to join coding .I enjoy learning how to code and hack.</h2>
+<li>💫currently learning:coding .</li>
 <li>🦕working on:nothing</li>
 <li>⚡fun fact:I'm Nigerian and I like talking</li>
 <h1>My Skills</h1>
